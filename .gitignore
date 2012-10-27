@@ -475,3 +475,12 @@ libraries/lithium/util/Set.php
 libraries/lithium/util/String.php
 libraries/lithium/util/Validator.php
 libraries/lithium/util/collection/Filters.php
+app/tests/cases/controllers/empty
+app/tests/cases/extensions/adapter/empty
+app/tests/cases/extensions/command/empty
+app/tests/cases/extensions/data/source/empty
+app/tests/cases/extensions/helper/empty
+app/tests/cases/models/empty
+app/tests/functional/empty
+app/tests/integration/empty
+app/tests/mocks/empty
